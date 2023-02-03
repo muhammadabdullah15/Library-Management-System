@@ -1,0 +1,13 @@
+3
+5
+
+2021317 Muhammad_Abdullah 18 03219876543 2      none    none 
+2021059 Ahmed_Fareed      20 03212345678 1      none    none
+2021234 Ali_Ahmed         19 03213579111 none   none    none
+
+1 CS103 123456789 Dr._Fawad_Hussain_:)  2021317
+2 HM101 143922424 Atta_Jadoon           2021059 
+3 MT101 987654321 Shafqat_Ali           Available
+4 PH103 135791113 Fahad_Khan            Available
+5 CS121 246810121 Rashid_Jillani        Available
+     
