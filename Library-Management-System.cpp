@@ -1,9 +1,3 @@
-/*  CS103_Project Fall 2021
-
-    Made by:    Muhamamad Abdullah  (2021317)
-                Ahmed Fareed        (2021059)
-*/
-
 #include <iostream>
 #include <iomanip>
 #include <string>
